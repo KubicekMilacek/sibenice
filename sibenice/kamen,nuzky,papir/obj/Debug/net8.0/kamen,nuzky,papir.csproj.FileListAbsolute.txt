@@ -1,0 +1,15 @@
+G:\2. 25-26\Vys\sibenice\sibenice\kamen,nuzky,papir\bin\Debug\net8.0\kamen,nuzky,papir.exe
+G:\2. 25-26\Vys\sibenice\sibenice\kamen,nuzky,papir\bin\Debug\net8.0\kamen,nuzky,papir.deps.json
+G:\2. 25-26\Vys\sibenice\sibenice\kamen,nuzky,papir\bin\Debug\net8.0\kamen,nuzky,papir.runtimeconfig.json
+G:\2. 25-26\Vys\sibenice\sibenice\kamen,nuzky,papir\bin\Debug\net8.0\kamen,nuzky,papir.dll
+G:\2. 25-26\Vys\sibenice\sibenice\kamen,nuzky,papir\bin\Debug\net8.0\kamen,nuzky,papir.pdb
+G:\2. 25-26\Vys\sibenice\sibenice\kamen,nuzky,papir\obj\Debug\net8.0\kamen,nuzky,papir.GeneratedMSBuildEditorConfig.editorconfig
+G:\2. 25-26\Vys\sibenice\sibenice\kamen,nuzky,papir\obj\Debug\net8.0\kamen,nuzky,papir.AssemblyInfoInputs.cache
+G:\2. 25-26\Vys\sibenice\sibenice\kamen,nuzky,papir\obj\Debug\net8.0\kamen,nuzky,papir.AssemblyInfo.cs
+G:\2. 25-26\Vys\sibenice\sibenice\kamen,nuzky,papir\obj\Debug\net8.0\kamen,nuzky,papir.csproj.CoreCompileInputs.cache
+G:\2. 25-26\Vys\sibenice\sibenice\kamen,nuzky,papir\obj\Debug\net8.0\kamen,nuzky,papir.sourcelink.json
+G:\2. 25-26\Vys\sibenice\sibenice\kamen,nuzky,papir\obj\Debug\net8.0\kamen,nuzky,papir.dll
+G:\2. 25-26\Vys\sibenice\sibenice\kamen,nuzky,papir\obj\Debug\net8.0\refint\kamen,nuzky,papir.dll
+G:\2. 25-26\Vys\sibenice\sibenice\kamen,nuzky,papir\obj\Debug\net8.0\kamen,nuzky,papir.pdb
+G:\2. 25-26\Vys\sibenice\sibenice\kamen,nuzky,papir\obj\Debug\net8.0\kamen,nuzky,papir.genruntimeconfig.cache
+G:\2. 25-26\Vys\sibenice\sibenice\kamen,nuzky,papir\obj\Debug\net8.0\ref\kamen,nuzky,papir.dll

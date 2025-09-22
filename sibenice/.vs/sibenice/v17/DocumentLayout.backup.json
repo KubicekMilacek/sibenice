@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "G:\\2. 25-26\\Vys\\sibenice\\sibenice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE7DA0A2-A0E2-49BB-BFBF-A09BE40E6CB5}|piskvorky\\piskvorky.csproj|g:\\2. 25-26\\vys\\sibenice\\sibenice\\piskvorky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7DA0A2-A0E2-49BB-BFBF-A09BE40E6CB5}|piskvorky\\piskvorky.csproj|solutionrelative:piskvorky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E522D1C9-6DEC-495D-9D7B-92E454DCC635}|kamen,nuzky,papir\\kamen,nuzky,papir.csproj|g:\\2. 25-26\\vys\\sibenice\\sibenice\\kamen,nuzky,papir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E522D1C9-6DEC-495D-9D7B-92E454DCC635}|kamen,nuzky,papir\\kamen,nuzky,papir.csproj|solutionrelative:kamen,nuzky,papir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0089AF8-D35D-44A6-9EED-1FCDF113F288}|sibenice\\sibenice.csproj|g:\\2. 25-26\\vys\\sibenice\\sibenice\\sibenice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0089AF8-D35D-44A6-9EED-1FCDF113F288}|sibenice\\sibenice.csproj|solutionrelative:sibenice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\2. 25-26\\Vys\\sibenice\\sibenice\\kamen,nuzky,papir\\Program.cs",
+              "RelativeDocumentMoniker": "kamen,nuzky,papir\\Program.cs",
+              "ToolTip": "G:\\2. 25-26\\Vys\\sibenice\\sibenice\\kamen,nuzky,papir\\Program.cs",
+              "RelativeToolTip": "kamen,nuzky,papir\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T12:48:04.972Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "G:\\2. 25-26\\Vys\\sibenice\\sibenice\\piskvorky\\Program.cs",
+              "RelativeDocumentMoniker": "piskvorky\\Program.cs",
+              "ToolTip": "G:\\2. 25-26\\Vys\\sibenice\\sibenice\\piskvorky\\Program.cs",
+              "RelativeToolTip": "piskvorky\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T12:45:53.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "G:\\2. 25-26\\Vys\\sibenice\\sibenice\\sibenice\\Program.cs",
               "RelativeDocumentMoniker": "sibenice\\Program.cs",
-              "ToolTip": "G:\\2. 25-26\\Vys\\sibenice\\sibenice\\sibenice\\Program.cs*",
-              "RelativeToolTip": "sibenice\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABoAAAAAAAAAA==",
+              "ToolTip": "G:\\2. 25-26\\Vys\\sibenice\\sibenice\\sibenice\\Program.cs",
+              "RelativeToolTip": "sibenice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T12:24:37.32Z",
               "EditorCaption": ""
