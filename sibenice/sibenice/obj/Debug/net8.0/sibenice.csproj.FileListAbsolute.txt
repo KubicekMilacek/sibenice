@@ -1,0 +1,14 @@
+G:\2. 25-26\Vys\sibenice\sibenice\sibenice\bin\Debug\net8.0\sibenice.exe
+G:\2. 25-26\Vys\sibenice\sibenice\sibenice\bin\Debug\net8.0\sibenice.deps.json
+G:\2. 25-26\Vys\sibenice\sibenice\sibenice\bin\Debug\net8.0\sibenice.runtimeconfig.json
+G:\2. 25-26\Vys\sibenice\sibenice\sibenice\bin\Debug\net8.0\sibenice.dll
+G:\2. 25-26\Vys\sibenice\sibenice\sibenice\bin\Debug\net8.0\sibenice.pdb
+G:\2. 25-26\Vys\sibenice\sibenice\sibenice\obj\Debug\net8.0\sibenice.GeneratedMSBuildEditorConfig.editorconfig
+G:\2. 25-26\Vys\sibenice\sibenice\sibenice\obj\Debug\net8.0\sibenice.AssemblyInfoInputs.cache
+G:\2. 25-26\Vys\sibenice\sibenice\sibenice\obj\Debug\net8.0\sibenice.AssemblyInfo.cs
+G:\2. 25-26\Vys\sibenice\sibenice\sibenice\obj\Debug\net8.0\sibenice.csproj.CoreCompileInputs.cache
+G:\2. 25-26\Vys\sibenice\sibenice\sibenice\obj\Debug\net8.0\sibenice.dll
+G:\2. 25-26\Vys\sibenice\sibenice\sibenice\obj\Debug\net8.0\refint\sibenice.dll
+G:\2. 25-26\Vys\sibenice\sibenice\sibenice\obj\Debug\net8.0\sibenice.pdb
+G:\2. 25-26\Vys\sibenice\sibenice\sibenice\obj\Debug\net8.0\sibenice.genruntimeconfig.cache
+G:\2. 25-26\Vys\sibenice\sibenice\sibenice\obj\Debug\net8.0\ref\sibenice.dll
